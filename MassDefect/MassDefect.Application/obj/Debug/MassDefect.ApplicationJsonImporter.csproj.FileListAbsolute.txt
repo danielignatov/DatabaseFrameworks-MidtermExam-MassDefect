@@ -1,0 +1,16 @@
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Application.exe.config
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Application.exe
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Application.pdb
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\EntityFramework.dll
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Data.dll
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Models.dll
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Data.pdb
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Models.pdb
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\EntityFramework.xml
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\obj\Debug\MassDefect.ApplicationJsonImporter.csprojResolveAssemblyReference.cache
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\obj\Debug\MassDefect.Application.exe
+C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\obj\Debug\MassDefect.Application.pdb
