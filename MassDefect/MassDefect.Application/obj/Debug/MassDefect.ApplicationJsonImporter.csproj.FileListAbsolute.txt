@@ -14,3 +14,6 @@ C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\bin\Deb
 C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\obj\Debug\MassDefect.ApplicationJsonImporter.csprojResolveAssemblyReference.cache
 C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\obj\Debug\MassDefect.Application.exe
 C:\Users\Даниел\Documents\GitHub\MassDefect\MassDefect.Application\obj\Debug\MassDefect.Application.pdb
+C:\Users\Даниел\Documents\GitHub\DatabaseFrameworks-MidtermExam-MassDefect\MassDefect\MassDefect.Application\bin\Debug\MassDefect.Application.exe.config
+C:\Users\Даниел\Documents\GitHub\DatabaseFrameworks-MidtermExam-MassDefect\MassDefect\MassDefect.Application\obj\Debug\MassDefect.Application.exe
+C:\Users\Даниел\Documents\GitHub\DatabaseFrameworks-MidtermExam-MassDefect\MassDefect\MassDefect.Application\obj\Debug\MassDefect.Application.pdb
